@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="range"] {
+  width: 60%;
+  margin-top: 10px;
+}
+
+svg {
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+button {
+  margin-top: 8px;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
